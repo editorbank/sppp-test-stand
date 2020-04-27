@@ -1,0 +1,1 @@
+taskkill /FI "imagename eq nginx.exe" /f

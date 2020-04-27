@@ -1,0 +1,11 @@
+nginx.exe
+*.log
+**/nginx.pid
+#**/*_temp/**
+#!**/*_temp/.gitkeep
+
+**/.idea/**
+*.iml
+
+**/target/**
+*.zip

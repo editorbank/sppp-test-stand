@@ -1,0 +1,1 @@
+curl -D- "http://localhost:8000/user@aaa/bbb?xxxx=rrrr"

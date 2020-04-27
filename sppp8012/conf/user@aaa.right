@@ -1,0 +1,7 @@
+USER|get|/aaa  1;
+USER|get|/aaa/  1;
+USER|get|/aaa/bbb  1;
+USER|POST|/aaa  1;
+USER|POST|/aaa/  1;
+USER|POST|/aaa/bbb  1;
+USER|DELETE|/aaa/bbb  1;

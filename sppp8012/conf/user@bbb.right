@@ -1,0 +1,3 @@
+USER|get|/bbb  1;
+USER|get|/bbb/  1;
+USER|get|/bbb/bbb 1;

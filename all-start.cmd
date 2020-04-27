@@ -1,0 +1,1 @@
+@call all call nginx -s start
