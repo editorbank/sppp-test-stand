@@ -1,1 +1,0 @@
-@call all call nginx -s stop
