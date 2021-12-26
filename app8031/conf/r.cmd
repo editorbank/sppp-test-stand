@@ -1,1 +1,0 @@
-@(cd ..)&&(call nginx -t)&&(call nginx -s reload)
